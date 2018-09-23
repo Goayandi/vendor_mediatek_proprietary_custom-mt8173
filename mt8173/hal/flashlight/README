@@ -1,0 +1,41 @@
+<<<<<<< HEAD
+WHAT IT DOES?
+=============
+custom flashlight related files.
+
+
+HOW IT WAS BUILT?
+==================
+It can build the following:
+libcameracustom.flashlight.a
+
+It needs the following library from MediaTek:
+=======
+Library of MTK camera tuning
+
+This library is pre-built by MediaTek internal.
+
+
+WHAT IT DOES?
+=============
+For providing camera-flash tuning function and options.
+
+HOW IT WAS BUILT?
+==================
+build static lib libcameracustom.flashlight.a and be added to libcameracustom.so
+>>>>>>> f703763... [ALPS02282715] 8173 HAL/MW porting from D1: custom part
+
+
+HOW TO USE IT?
+==============
+<<<<<<< HEAD
+Provide related custom flashlight api
+
+All the source code of this library were written by MediaTek co..
+=======
+
+Camera call functions to get camera-flash tuning parameters.
+
+All the source code of this library were written by MediaTek co..
+
+>>>>>>> f703763... [ALPS02282715] 8173 HAL/MW porting from D1: custom part

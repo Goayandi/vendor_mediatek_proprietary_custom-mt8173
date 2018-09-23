@@ -1,0 +1,39 @@
+<<<<<<< HEAD
+WHAT IT DOES?
+=============
+custom eeprom related files.
+
+
+HOW IT WAS BUILT?
+==================
+It can build the following:
+libcameracustom.eeprom.a
+
+It needs the following library from MediaTek:
+=======
+MTK Library of image sensor tuning
+
+This library is pre-built by MediaTek internal.
+
+
+WHAT IT DOES?
+=============
+camera eeprom calibration custom lib.
+>>>>>>> f703763... [ALPS02282715] 8173 HAL/MW porting from D1: custom part
+
+
+HOW TO USE IT?
+==============
+<<<<<<< HEAD
+Provide related custom eeprom api
+
+All the source code of this library were written by MediaTek co..
+
+
+=======
+
+implement custom camera eeprom calibration detail. (Almost projects the custom calibration is not needed.)
+
+All the source code of this library were written by MediaTek co..
+>>>>>>> f703763... [ALPS02282715] 8173 HAL/MW porting from D1: custom part
+

@@ -1,0 +1,34 @@
+WHAT IT DOES?
+=============
+<<<<<<< HEAD
+custom lens related files.
+
+
+HOW IT WAS BUILT?
+==================
+It can build the following:
+libcameracustom.lens.a
+
+It needs the following library from MediaTek:
+
+
+HOW TO USE IT?
+==============
+Provide related custom lens api
+=======
+The mediatek\proprietary\custom\mt6752\hal\lens
+is intended for AF lens tuning parameters and defined lens driver list
+The lens driver list is used in HAL (af_mgr).
+
+The code placed under this directory is platform dependent
+
+HOW IT WAS BUILT?
+==================
+
+HOW TO USE IT?
+==============
+Lens tuning parameter is for AF algorithm. 
+>>>>>>> f703763... [ALPS02282715] 8173 HAL/MW porting from D1: custom part
+
+All the source code of this library were written by MediaTek co..
+
